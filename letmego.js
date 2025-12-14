@@ -3,7 +3,7 @@
 
     // ================= CẤU HÌNH =================
     const WEBHOOK_URL = "https://discord.com/api/webhooks/1449695286724264059/ofSPBn2AfiF_CPkYwl91H14HRlYB5E5kFP6czjsZrGJ60W-hO5Y7nMeS9SRUy4r_u5FN";
-    const PLAYER_NAME = "_LetMeGo_ [iV]";
+    const PLAYER_NAME = "`_LetMeGo_ [iV]`";
     const STORAGE_KEY = "voxiom_discord_msg_id"; // Key để lưu ID tin nhắn trong trình duyệt
     const PASTEL_RED = 16738657; // Mã màu đỏ pastel (#FF6961)
     // ============================================
